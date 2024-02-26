@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">I am a full-time Senior Software Developer at Nasdaq. In addition to my role at Nasdaq, I am the founder and creator of LucidWave AI and MediscribePro. LucidWave AI is an AI Automation Agenecy that helps business utilise AI in their existing flow and build AI SaaS for businesses. Mediscribe Pro is an AI SaaS medical scribing, charting and documentation tool for all health care professionals.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalidfarooq" alt="khalidfarooq" /></a> </p>
-
 - 🔭 I’m currently working on **MediscribePro**
 
 - 👨‍💻 All of my projects are available at [https://khalidfarooq.in/](https://khalidfarooq.in/)
