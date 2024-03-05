@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
-<h3 align="center">I am a full-time Senior Software Developer at Nasdaq. In addition to my role at Nasdaq, I am the founder of [Mediscribe Pro](https://www.mediscribe.pro/) and [LucidWave AI](https://www.lucidwaveai.com/). Mediscribe Pro is an AI SaaS medical scribing, charting and documentation tool for all health care professionals. LucidWave AI is an AI Automation Agenecy that helps business utilise AI in their existing flow and build AI SaaS for businesses.</h3>
+<h3 align="center">I am a full-time Senior Software Developer at Nasdaq. In addition to my role at Nasdaq, I am the founder of <a href="https://www.mediscribe.pro/">Mediscribe Pro</a> and <a href="https://www.lucidwaveai.com/">LucidWave AI</a>. Mediscribe Pro is an AI SaaS medical scribing, charting and documentation tool for all health care professionals. LucidWave AI is an AI Automation Agenecy that helps business utilise AI in their existing flow and build AI SaaS for businesses.</h3>
 
 - 🔭 I’m currently working on **[Mediscribe Pro](https://www.mediscribe.pro/)**
 
