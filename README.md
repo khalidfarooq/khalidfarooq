@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
-<h3 align="center">I am a full-time Senior Software Developer at <a href="https://www.nasdaq.com/">Nasdaq</a>.<br/>In addition to my role at <a href="https://www.nasdaq.com/">Nasdaq</a>, i'm the Founder of <a href="https://www.mediscribe.pro/">Mediscribe Pro</a> and <a href="https://www.lucidwaveai.com/">LucidWave AI</a> <br/> Co-Founder of <a href="https://topemr.com/">Top EMR</a> 
+<h3 align="center">Software Engineer @<a href="https://www.nasdaq.com/">Nasdaq</a><br/>Founder @<a href="https://www.mediscribe.pro/">Mediscribe Pro</a>,  @<a href="https://www.lucidwaveai.com/">LucidWave AI</a> <br/> Co-Founder @<a href="https://topemr.com/">Top EMR</a> 
   <br/></h3>
 <ul>
   
