@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
-<h3 align="center">Software Engineer @<a href="https://www.nasdaq.com/">Nasdaq</a><br/>Creator behind <a href="https://www.mediscribe.pro/">Mediscribe Pro</a>,  <a href="https://www.lucidwaveai.com/">LucidWave AI</a> <br/> <a href="https://topemr.com/">Top EMR</a> 
-  <br/></h3>
+<p align="center">Software Engineer 
+  <a href="https://www.nasdaq.com/">@Nasdaq</a><br/>
+  Creator of <a href="https://www.mediscribe.pro/">Mediscribe Pro</a>, <a href="https://www.blazelabs.pro/">Blaze Labs</a>, <a href="https://topemr.com/">Top EMR</a> 
+  </p>
 <ul>
-  
   <li><a href="https://www.mediscribe.pro/">Mediscribe Pro</a> is an AI SaaS medical scribing, charting and documentation tool for all health care professionals. Reducing clinical note taking time by upto 90%.</li>
-  <li><a href="https://www.lucidwaveai.com/">LucidWave AI</a> is an AI Automation Agenecy that helps business utilise AI in their existing flow and build AI SaaS for businesses.</li>
+  <li>At <a href="https://www.blazelabs.pro/">Blaze Labs</a> we help startups launch their SaaS MVPs, AI Automations at warp speed.</li>
   <li><a href="https://topemr.com/">Top EMR</a>  is a full scale EMR for healthcare providers. Unlike conventional EMRs, which demand approximately 30 minutes for clinical notes and billing per patient, topEMR's integrated AI technology slashes this time to just 5 minutes.</li>
 </ul>
 
@@ -17,10 +18,13 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vntCv3kYo_Xe96YdALTb26ITJZ-LRRJj/view](https://drive.google.com/file/d/1vntCv3kYo_Xe96YdALTb26ITJZ-LRRJj/view)
 <hr/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidfarooq&" alt="khalidfarooq" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidfarooq&show_icons=true&locale=en&layout=compact" alt="khalidfarooq" /></p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidfarooq&show_icons=true&locale=en&layout=compact" alt="khalidfarooq" />
+  <img style="height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=khalidfarooq" alt="khalidfarooq" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalidfarooq&show_icons=true&locale=en" alt="khalidfarooq" /></p>
+
+
 
 <hr/>
 <h3 align="center">Languages and Tools:</h3>
