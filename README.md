@@ -5,8 +5,8 @@
   </p>
 <ul>
   <li><a href="https://www.mediscribe.pro/">Mediscribe Pro</a> is an AI SaaS medical scribing, charting and documentation tool for all health care professionals. Reducing clinical note taking time by upto 90%.</li>
-  <li>At <a href="https://www.blazelabs.pro/">Blaze Labs</a> we help startups launch their SaaS MVPs, AI Automations at warp speed.</li>
-  <li><a href="https://topemr.com/">Top EMR</a>  is a full scale EMR for healthcare providers. Unlike conventional EMRs, which demand approximately 30 minutes for clinical notes and billing per patient, topEMR's integrated AI technology slashes this time to just 5 minutes.</li>
+<!--   <li>At <a href="https://www.blazelabs.pro/">Blaze Labs</a> we help startups launch their SaaS MVPs, AI Automations at warp speed.</li> -->
+<!--   <li><a href="https://topemr.com/">Top EMR</a>  is a full scale EMR for healthcare providers. Unlike conventional EMRs, which demand approximately 30 minutes for clinical notes and billing per patient, topEMR's integrated AI technology slashes this time to just 5 minutes.</li> -->
 </ul>
 
 <hr/>
