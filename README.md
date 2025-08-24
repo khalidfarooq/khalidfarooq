@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
-<p align="center">Software Engineer 
+<p align="center">Ex-Software Engineer 
   <a href="https://www.nasdaq.com/">@Nasdaq</a><br/>
   Creator of <a href="https://www.mediscribe.pro/">Mediscribe Pro</a>, <a href="https://www.blazelabs.pro/">Blaze Labs</a>, <a href="https://topemr.com/">Top EMR</a> 
   </p>
