@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khalidanswers404@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vntCv3kYo_Xe96YdALTb26ITJZ-LRRJj/view](https://drive.google.com/file/d/1vntCv3kYo_Xe96YdALTb26ITJZ-LRRJj/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W7n88fCXTa4LsYnIZSxjIbvDOMxufV-i/view)
 <hr/>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
