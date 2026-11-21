@@ -18,15 +18,15 @@ Creator of **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pr
 > [!NOTE]
 > *These ventures represent my entrepreneurial background in clinical AI and product acceleration. They are now inactive as my focus is on building the next generation of enterprise intelligence at Google.*
 
-* **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pro)**  
+* **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pro)** (inactive)  
   *AI SaaS medical scribing, charting, and clinical documentation tool for healthcare professionals.*  
   Reduced clinical note-taking and charting overhead by up to 90% using speech recognition and customized medical LLM fine-tunes.
 
-* **[Top EMR](https://topemr.com/)**  
+* **[Top EMR](https://topemr.com/)** (inactive)  
   *Full-scale intelligent Electronic Medical Record (EMR) platform for clinics and hospitals.*  
   Slashed per-patient documentation and billing time from 30 minutes to under 5 minutes with integrated AI charting pipelines.
 
-* **[Blaze Labs](https://www.blazelabs.pro/)**  
+* **[Blaze Labs](https://www.blazelabs.pro/)** (inactive)  
   *Product studio and AI automation launchpad helping early-stage startups build and deploy production MVPs at warp speed.*
 
 ---
