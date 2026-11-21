@@ -13,6 +13,22 @@ Creator of **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pr
 
 ---
 
+### 🔥 Featured Open-Source & Agent Infrastructure
+
+* 🛡️ **[Microvisor](https://github.com/khalidfarooq/microvisor)**  
+  *The 15ms Ephemeral Micro-Hypervisor & Zero-Trust Snapshot Sandbox for Autonomous AI Coding Agents.*  
+  Engineered in Rust. Features sub-15ms ephemeral microVM cold boot, sub-2ms Copy-on-Write (CoW) 4KB memory page tracking, and automated instant rollback containment for destructive agent actions.
+
+* 🍄 **[Mycel](https://github.com/khalidfarooq/mycel)**  
+  *Zero-Config P2P Mesh Intelligence & Vector Memory-Sharing Substrate for Autonomous Agent Swarms.*  
+  Engineered in Rust. Decentralized mDNS/Kademlia DHT discovery, epidemic rumor-mongering gossip protocol, CRDT state sync, and zero-trust ChaCha20-Poly1305 encrypted agent-to-agent vector memory sharing with terminal TUI monitor.
+
+* 🚀 **[Holodeck](https://github.com/khalidfarooq/holodeck)**  
+  *Local AI Sandbox & Self-Healing Dev Environment for Autonomous Coding Agents.*  
+  Zero-dependency containerized execution runtime with automated AST error interception, runtime repair loops, and instant interactive developer feedback.
+
+---
+
 ### 🏛️ Previous Ventures & Products
 
 > [!NOTE]
