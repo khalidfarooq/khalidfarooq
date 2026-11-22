@@ -16,8 +16,8 @@ Creator of **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pr
 ### 🔥 Featured Open-Source & Agent Infrastructure
 
 * 🧠 **[Agent Swarm Kernel (ask)](https://github.com/khalidfarooq/agent-swarm-kernel)**  
-  *High-Throughput User-Space Microkernel & Lock-Free Thread-per-Core Runtime for Autonomous AI Agent Swarms.*  
-  Engineered in Rust. Features thread-per-core pinned reactors, cache-line aligned SPSC lock-free ring buffers, and zero-copy shared memory arenas. Achieves **6.1M+ message ops/sec** with **~650ns transit latency** across **100,000+ concurrent agents** (28,000x faster than LangGraph).
+  *High-Throughput User-Space Scheduling & Lock-Free IPC Substrate for AI Agent Swarms.*  
+  Engineered in Rust. Thread-per-core pinned reactors with lock-free SPSC circular ring buffers. Explores sub-microsecond coordination latencies for in-memory multi-agent state machines, reducing framework scheduling overhead to near-zero.
 
 * 🛡️ **[Microvisor](https://github.com/khalidfarooq/microvisor)**  
   *The 15ms Ephemeral Micro-Hypervisor & Zero-Trust Snapshot Sandbox for Autonomous AI Coding Agents.*  
