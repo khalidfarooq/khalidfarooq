@@ -17,19 +17,19 @@ Creator of **[Mediscribe Pro](https://www.producthunt.com/products/mediscribe-pr
 
 * 🧠 **[Agent Swarm Kernel (ask)](https://github.com/khalidfarooq/agent-swarm-kernel)**  
   *High-Throughput User-Space Scheduling & Lock-Free IPC Substrate for AI Agent Swarms.*  
-  Engineered in Rust. Thread-per-core pinned reactors with lock-free SPSC circular ring buffers. Explores sub-microsecond coordination latencies for in-memory multi-agent state machines, reducing framework scheduling overhead to near-zero.
+  Engineered in Rust. Sharded core reactors (`sched_setaffinity` on Linux), lock-free `rtrb` SPSC ring buffers, zero-allocation `104 B` inline `MessageEnvelope` routing, off-core `IoWorkerPool`, and live telemetry (`~22.3M ops/sec` across 100K in-memory agents on Apple Silicon).
 
 * 🛡️ **[Microvisor](https://github.com/khalidfarooq/microvisor)**  
-  *The 15ms Ephemeral Micro-Hypervisor & Zero-Trust Snapshot Sandbox for Autonomous AI Coding Agents.*  
-  Engineered in Rust. Features sub-15ms ephemeral microVM cold boot, sub-2ms Copy-on-Write (CoW) 4KB memory page tracking, and automated instant rollback containment for destructive agent actions.
+  *Sub-15ms Ephemeral OS Sandbox & CoW Snapshot Engine for AI Coding Agents.*  
+  Engineered in Rust. Kernel-enforced isolation via Apple Seatbelt (`sandbox-exec`) on macOS and `setrlimit`/`prctl`/unprivileged namespaces on Linux, APFS `clonefile(2)` CoW filesystem rollback, SHA-256 disk Merkle tree verification, and `wait4(2)` `rusage` telemetry.
 
 * 🍄 **[Mycel](https://github.com/khalidfarooq/mycel)**  
-  *Zero-Config P2P Mesh Intelligence & Vector Memory-Sharing Substrate for Autonomous Agent Swarms.*  
-  Engineered in Rust. Decentralized mDNS/Kademlia DHT discovery, epidemic rumor-mongering gossip protocol, CRDT state sync, and zero-trust ChaCha20-Poly1305 encrypted agent-to-agent vector memory sharing with terminal TUI monitor.
+  *Sovereign, Zero-Cloud P2P Mesh Network & Compute Exchange for Autonomous Edge Agents.*  
+  Engineered in Rust. UDP LAN peer auto-discovery, Ed25519-authenticated X25519 + HKDF-SHA256 + ChaCha20-Poly1305 AEAD encrypted TCP transport, signature-verified compute auctions, Lamport-clock Delta-CRDT sync, and live `ratatui` TUI monitor.
 
-* 🚀 **[Holodeck](https://github.com/khalidfarooq/holodeck)**  
-  *Local AI Sandbox & Self-Healing Dev Environment for Autonomous Coding Agents.*  
-  Zero-dependency containerized execution runtime with automated AST error interception, runtime repair loops, and instant interactive developer feedback.
+* 🌌 **[Holodeck](https://github.com/khalidfarooq/holodeck)**  
+  *Universal Local Mock-Cloud, SaaS & Webhook Simulator for AI Coding Agents.*  
+  Engineered in Rust. Stateful local Axum simulators for Stripe, OAuth2/OIDC, S3 storage, and Resend/SendGrid/Twilio notifications, HMAC-SHA256 signed webhook delivery, and a stdio MCP server bridged to the live HTTP daemon.
 
 ---
 
